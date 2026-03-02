@@ -1,0 +1,13 @@
+Metric,Vanilla LLM,RAG
+Accuracy,0.1,0.735
+Hallucination Rate,0.71,0.105
+Refusal Rate,0.19,0.16
+Avg Confidence (Overall),0.6875,0.7865
+Avg Confidence (Correct),0.885,0.9449
+Avg Confidence (Incorrect),0.7754,0.8762
+Overconfidence Gap,-0.1096,-0.0687
+Retrieval Recall (RAG only),N/A,0.705
+N Correct,20,147.0
+N Hallucinated,142,21.0
+N Refused,38,32.0
+N Total,200,200.0

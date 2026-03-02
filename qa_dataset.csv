@@ -1,0 +1,201 @@
+qa_id,question,true_answer,source_article_id,category
+0,Who has been called in to coach Geraint Jones?,Jack Russell,cricket_005,cricket
+1,Which team did Geraint Jones tour with in South Africa?,England,cricket_005,cricket
+2,Who is the England coach mentioned in the article?,Duncan Fletcher,cricket_005,cricket
+3,Who said France can claim another Six Nations Grand Slam?,Christophe Dominici,rugby_139,rugby
+4,What was the score in France's win against England?,18-17,rugby_139,rugby
+5,Who is definitely out with a knee injury?,Jimmy Marlu,rugby_139,rugby
+6,Who is the Italy skipper mentioned in the article?,Marco Bortolami,rugby_052,rugby
+7,Where is the Six Nations contest between Italy and Scotland taking place?,Murrayfield,rugby_052,rugby
+8,How many wins has Italy recorded since joining the Six Nations in 2000?,three,rugby_052,rugby
+9,Who scored the winning goal for Arsenal against Portsmouth?,Sol Campbell,football_174,football
+10,How long had it been since Sol Campbell's last goal before this match?,16 months,football_174,football
+11,Which Arsenal player had a shot blocked by Jamie Ashdown?,Thierry Henry,football_174,football
+12,Who is the new Scotland manager mentioned in the article?,Walter Smith,football_025,football
+13,Which team is John Toshack managing for his first game?,Wales,football_025,football
+14,Against which team is Wales playing under John Toshack's management?,Hungary,football_025,football
+15,Who defeated Venus Williams in the first round of the Dubai Championships?,Sylvia Farina Elia,tennis_019,tennis
+16,What was the score when Sylvia Farina Elia defeated Venus Williams?,7-5 7-6 (8-6),tennis_019,tennis
+17,Who did Sania Mirza defeat to reach the second round?,Jelena Kostanic,tennis_019,tennis
+18,Who will Tim Henman face in the first round of the Australian Open?,Cyril Saulnier,tennis_056,tennis
+19,Who is the defending champion and world number one at the Australian Open?,Roger Federer,tennis_056,tennis
+20,Which player is hoping to become the first Australian man to win the event since 1976?,Lleyton Hewitt,tennis_056,tennis
+21,Which teams were charged by the Football Association?,Liverpool and Millwall,football_140,football
+22,What was the score of the Carling Cup match between Liverpool and Millwall?,3-0,football_140,football
+23,Where did the Carling Cup match between Liverpool and Millwall take place?,Millwall's new Den Stadium,football_140,football
+24,When is the London Marathon scheduled to take place?,17 April,athletics_019,athletics
+25,Who is the London Marathon race director?,David Bedford,athletics_019,athletics
+26,In which race did Susan Chepkemei finish third recently?,world best 10K race,athletics_019,athletics
+27,"Who is the two-time Olympic 10,000 metres champion mentioned?",Derartu Tulu,athletics_085,athletics
+28,What event will Derartu Tulu participate in on 8 May?,BUPA Great Caledonian Run,athletics_085,athletics
+29,Which marathons has Derartu Tulu won?,"Boston, London, Tokyo",athletics_085,athletics
+30,Who had their suspension lifted by Kenya's athletics body?,Susan Chepkemei,athletics_013,athletics
+31,What event is Susan Chepkemei hoping to compete in?,world cross country championships,athletics_013,athletics
+32,Who is the AK chief that commented on Chepkemei's suspension?,Isaiah Kiplagat,athletics_013,athletics
+33,Who was named in Australia's 13-man squad for the Test series in New Zealand?,Brad Hodge,cricket_028,cricket
+34,When will the first Test in New Zealand take place?,10-14 March,cricket_028,cricket
+35,Who are the three bowlers Brett Lee faces competition from?,"Glenn McGrath, Jason Gillespie, Michael Kasprowicz",cricket_028,cricket
+36,How many Grand Slams has Lindsay Davenport won?,Three,tennis_040,tennis
+37,Which Grand Slam did Lindsay Davenport win in 2000?,Australian Open,tennis_040,tennis
+38,Why did Lindsay Davenport decide not to participate in the Hopman Cup?,To rest her knee,tennis_040,tennis
+39,Who turned down Roger Federer's offer to be his full-time coach?,Tony Roche,tennis_074,tennis
+40,Which tournament is Roger Federer preparing to defend with Tony Roche's help?,Australian Open,tennis_074,tennis
+41,Who was Roger Federer's coach before he split in 2003?,Peter Lundgren,tennis_074,tennis
+42,Who is the captain of Italy's rugby team?,Marco Bortolami,rugby_135,rugby
+43,Where is the third-round Six Nations game between Italy and Scotland being played?,Murrayfield,rugby_135,rugby
+44,What was the score when Italy played against Ireland?,28-17,rugby_135,rugby
+45,Who called for athletes found guilty on drugs charges to be treated as criminals?,Paula Radcliffe,athletics_046,athletics
+46,What does Paula Radcliffe believe doping in sport should be treated as?,criminal offence,athletics_046,athletics
+47,How old is Paula Radcliffe as mentioned in the article?,30,athletics_046,athletics
+48,Which tournament is Scotland preparing for?,RBS Six Nations,rugby_070,rugby
+49,Who will miss the first two games due to an ankle injury?,Simon Taylor,rugby_070,rugby
+50,When is Scotland's opener in Paris scheduled?,5 February,rugby_070,rugby
+51,What was the score of Australia in the third Test against India?,398,cricket_045,cricket
+52,Who took 2-18 in 20 overs for Australia?,Glenn McGrath,cricket_045,cricket
+53,How many runs did Mohammad Kaif score not out?,47,cricket_045,cricket
+54,Which sprinter is determined to get his indoor campaign back on track?,Mark Lewis-Francis,athletics_098,athletics
+55,Who did Mark Lewis-Francis pull out of the 60m final against at the Birmingham Games?,Jason Gardener,athletics_098,athletics
+56,When is the Norwich Union Grand Prix in Birmingham?,18 February,athletics_098,athletics
+57,Who is the president of the Kenya Cricket Association?,Sharad Ghai,cricket_091,cricket
+58,Who appointed the caretaker committee for Kenya Cricket Association?,Sports Minister Ochillo Ayacko,cricket_091,cricket
+59,How long is the caretaker committee supposed to serve before new elections?,Three months,cricket_091,cricket
+60,Who won the Dubai Championship?,Roger Federer,tennis_005,tennis
+61,What was the score of the first set between Federer and Ljubicic?,6-1,tennis_005,tennis
+62,Who did Ivan Ljubicic beat in the last eight?,Tim Henman,tennis_005,tennis
+63,How many goals has Adriano scored in Serie A this season?,14 goals,football_074,football
+64,Which team was Adriano reported to have been linked with?,Chelsea,football_074,football
+65,What is the reported price tag Inter Milan placed on Adriano?,£40m,football_074,football
+66,What is the venue for the Fourth Test between South Africa and England?,Wanderers,cricket_043,cricket
+67,What time does play start for the Fourth Test?,0830 GMT,cricket_043,cricket
+68,Who is the captain of the England team?,Michael Vaughan,cricket_043,cricket
+69,Who has been named as a centre in England's team to face Wales?,Mathew Tait,rugby_068,rugby
+70,Which team is Mathew Tait from?,Newcastle,rugby_068,rugby
+71,Who is the England coach mentioned in the article?,Andy Robinson,rugby_068,rugby
+72,Which club made an £8m bid for Andy Reid and Michael Dawson?,Tottenham,football_097,football
+73,How much did Southampton offer for Andy Reid?,£3m-plus and two players,football_097,football
+74,Who are the two players included in Southampton's offer?,Brett Ormerod and Darren Kenton,football_097,football
+75,What was the final score between Newcastle and Gloucester?,27-27,rugby_010,rugby
+76,Who scored a try for Newcastle after a chip ahead?,Michael Stephenson,rugby_010,rugby
+77,Who missed the conversion for Gloucester after Luke Narraway's try?,Henry Paul,rugby_010,rugby
+78,"Who set a new world record in the women's 5,000m?",Tirunesh Dibaba,athletics_005,athletics
+79,"What was Tirunesh Dibaba's winning time in the 5,000m?",14 minutes 32.93 seconds,athletics_005,athletics
+80,"Who won the men's 3,000m race?",Alistair Cragg,athletics_005,athletics
+81,Who is the captain of Liverpool?,Steven Gerrard,football_180,football
+82,Which club showed interest in Steven Gerrard?,Chelsea,football_180,football
+83,Which Real Madrid player did Gerrard urge Liverpool to sign?,Fernando Morientes,football_180,football
+84,Who won the Tsunami Appeal match in Melbourne?,ICC World XI,cricket_114,cricket
+85,How many runs did Ricky Ponting score in the match?,115,cricket_114,cricket
+86,What was the total score of the Asian XI?,232,cricket_114,cricket
+87,What is Sarah Claxton's new British record time for the 60m hurdles?,7.96 seconds,athletics_001,athletics
+88,Where will the European Indoor Championships take place?,Madrid,athletics_001,athletics
+89,When will the European Indoor Championships occur?,5-6 March,athletics_001,athletics
+90,Who did Amelie Mauresmo defeat in her opening match?,Vera Zvonareva,tennis_054,tennis
+91,What was the score of Maria Sharapova's victory over Svetlana Kuznetsova?,6-1 6-4,tennis_054,tennis
+92,Where is the Tour Championships event being held?,Los Angeles,tennis_054,tennis
+93,What sport did Dougie Walker participate in?,Athletics,athletics_031,athletics
+94,Where is the New Year Sprint staged?,Musselburgh Racecourse,athletics_031,athletics
+95,How long was Dougie Walker suspended in 1998?,Two years,athletics_031,athletics
+96,Who defeated Guillermo Coria in the Heineken Open semi-final?,Olivier Rochus,tennis_032,tennis
+97,What was the score of the match between Guillermo Coria and Olivier Rochus?,6-4 6-4,tennis_032,tennis
+98,Who will Olivier Rochus face in the final?,Jan Hernych,tennis_032,tennis
+99,Who is replacing Mauro Bergamasco at flanker?,David dal Maso,rugby_067,rugby
+100,Which team is Italy facing on Saturday?,Scotland,rugby_067,rugby
+101,Who continues at scrum-half for Italy?,Alessandro Troncon,rugby_067,rugby
+102,How many C&G Trophy matches will Ireland be guaranteed from 2006?,nine,cricket_123,cricket
+103,Who is the skipper of the Irish cricket team mentioned in the article?,Jason Molins,cricket_123,cricket
+104,Against which team will Ireland play a fixture at Edgbaston on 24 April?,Warwickshire,cricket_123,cricket
+105,What was the final score between Italy and Ireland?,Italy 17-28 Ireland,rugby_019,rugby
+106,Who set up tries for Geordan Murphy and Peter Stringer?,Brian O'Driscoll,rugby_019,rugby
+107,Which player scored a try for Italy at the end of the match?,Martin Castrogiovanni,rugby_019,rugby
+108,What marathon is Paula Radcliffe participating in?,New York City Marathon,athletics_040,athletics
+109,What distance is the New York City Marathon?,26.2 miles,athletics_040,athletics
+110,How old is Paula Radcliffe according to the article?,30 years old,athletics_040,athletics
+111,What was the final score of the match between Liverpool and Bayer Leverkusen?,3-1,football_061,football
+112,Who was the Liverpool manager during the match against Bayer Leverkusen?,Rafael Benitez,football_061,football
+113,Which Liverpool player was suspended for the Anfield leg?,Steven Gerrard,football_061,football
+114,Which competition gave an opportunity for younger players to get first-team experience?,FA Cup,football_212,football
+115,Who are some of the foreign managers mentioned in the article?,"Arsene Wenger, Claudio Ranieri, Jose Mourinho",football_212,football
+116,Which club is mentioned as signing young Englishmen?,Chelsea,football_212,football
+117,Which team did Alex Tudor join on a one-year contract?,Essex,cricket_012,cricket
+118,How many Test caps does Alex Tudor have?,10,cricket_012,cricket
+119,Who described Alex Tudor as a 'world-class signing'?,Ronnie Irani,cricket_012,cricket
+120,Which two players are mentioned as a potential middle-order allegiance for England?,Andrew Flintoff and Kevin Pietersen,cricket_020,cricket
+121,How many one-day centuries did Kevin Pietersen score in South Africa recently?,Three,cricket_020,cricket
+122,What was the result of England's Test series in South Africa?,2-1 victory,cricket_020,cricket
+123,Who is Mark Lewis-Francis taking advice from?,Linford Christie,athletics_094,athletics
+124,What is Mark Lewis-Francis's weight now?,86.9kg,athletics_094,athletics
+125,Where will Mark Lewis-Francis compete on 18 February?,Birmingham,athletics_094,athletics
+126,Who took the match-winning kick for Wales against England?,Gavin Henson,rugby_020,rugby
+127,What was the score when Wales were awarded a long-range penalty?,9-8,rugby_020,rugby
+128,When was Wales' last win over England in Cardiff before this match?,1993,rugby_020,rugby
+129,Where did England attempt to secure a series victory?,South Africa,cricket_096,cricket
+130,Who was the England captain during the match at Centurion Park?,Nasser Hussain,cricket_096,cricket
+131,What was the final target set for England on the last day?,249 from 76 overs,cricket_096,cricket
+132,Who set the preliminary trial date for the Balco case?,Susan Ilston,athletics_045,athletics
+133,When is the preliminary trial date set for the Balco case?,March,athletics_045,athletics
+134,Which banned substances are associated with the Balco scandal?,THG and modafinil,athletics_045,athletics
+135,Which Argentine player is joining Corinthians?,Carlos Tevez,football_116,football
+136,How much was paid for Carlos Tevez to join Corinthians?,nearly $20m,football_116,football
+137,Which club did Bernardo Gandulla join in Brazil?,Vasco da Gama,football_116,football
+138,Who is the coach of the France team?,Bernard Laporte,rugby_013,rugby
+139,What was the score of France's win against Scotland?,16-9,rugby_013,rugby
+140,Where will France play against England?,Twickenham,rugby_013,rugby
+141,Who is the England coach mentioned in the article?,Andy Robinson,rugby_077,rugby
+142,Which players are missing for the Six Nations?,"Jonny Wilkinson, Mike Tindall, Will Greenwood",rugby_077,rugby
+143,When is the injury audit expected to be released?,March,rugby_077,rugby
+144,Who is the captain of the Indian cricket team?,Sourav Ganguly,cricket_057,cricket
+145,How many Tests and one-day matches are scheduled for India's tour to Bangladesh?,Two Tests and three one-day matches,cricket_057,cricket
+146,When is the second Test in Chittagong due to start?,16 December,cricket_057,cricket
+147,Who is aiming for the world indoor two mile record?,Kenenisa Bekele,athletics_032,athletics
+148,What is the current world indoor two mile record time?,"eight minutes, 04.69 seconds",athletics_032,athletics
+149,When will Bekele race against his compatriots?,18 February,athletics_032,athletics
+150,"Who won the Volvo Women's Open in Pattaya, Thailand?",Conchita Martinez,tennis_084,tennis
+151,What was the score of the final match between Conchita Martinez and Anna-Lena Groenefeld?,6-3 3-6 6-3,tennis_084,tennis
+152,When was Conchita Martinez's last title before the Volvo Women's Open?,2000,tennis_084,tennis
+153,Who scored 256-9 in the tour match?,Pakistan,cricket_054,cricket
+154,How many runs did Mike Hussey concede?,28,cricket_054,cricket
+155,Who led the Chairman's XI?,Justin Langer,cricket_054,cricket
+156,Who is the coach of Wales?,Mike Ruddock,rugby_027,rugby
+157,Which player replaces Hal Luscombe on the right wing?,Kevin Morgan,rugby_027,rugby
+158,Which team did Wales beat with a score of 38-8?,Italy,rugby_027,rugby
+159,Who branded Chelsea's expected complaint to Uefa as pathetic?,Henk Ten Cate,football_046,football
+160,What was the final score of the match between Chelsea and Barcelona?,2-1,football_046,football
+161,Which Chelsea player was dismissed during the match?,Didier Drogba,football_046,football
+162,Which event did Kelly Holmes win at the 2004 Olympics?,800m,athletics_034,athletics
+163,Who were the members of the British men's 4x100m relay team in 2004?,"Jason Gardener, Darren Campbell, Marlon Devonish, Mark Lewis-Francis",athletics_034,athletics
+164,Which two events did Hicham El Guerrouj win at the 2004 Olympics?,"1500m and 5,000m",athletics_034,athletics
+165,Who scored 80 runs for India?,Mohammad Kaif,cricket_077,cricket
+166,What was the final score for Bangladesh?,234-8,cricket_077,cricket
+167,Who was run out for nought in India's innings?,Mahendra Dhoni,cricket_077,cricket
+168,Which events has Kelly Holmes been chosen for at the European Indoor Championships?,800m and 1500m,athletics_068,athletics
+169,Who is the defending 60m champion included in the GB team?,Jason Gardener,athletics_068,athletics
+170,When will the European Indoor Championships begin in Madrid?,4 March,athletics_068,athletics
+171,Who will appeal against the acquittal of Kostas Kenteris and Katerina Thanou if the IAAF does not?,Wada,athletics_079,athletics
+172,What charges were Kostas Kenteris and Katerina Thanou cleared of?,Missing dope tests,athletics_079,athletics
+173,Who was banned for four years by the tribunal?,Christos Tzekos,athletics_079,athletics
+174,What is the ICC considering changing in one-day cricket?,Two wickets off a single ball.,cricket_101,cricket
+175,Who heads the ICC committee recommending the proposal?,Sunil Gavaskar.,cricket_101,cricket
+176,Where is the ICC discussing the proposals?,Melbourne.,cricket_101,cricket
+177,When does the World Cross-Country Championships start?,19 March,athletics_011,athletics
+178,What event is Paula Radcliffe preparing for?,London Marathon,athletics_011,athletics
+179,What position did the GB team achieve in the World Cross-Country Championships last year?,Bronze,athletics_011,athletics
+180,Which team is considering a bid for Andy Farrell?,Leicester Tigers,rugby_125,rugby
+181,What medical issue has Andy Farrell faced?,knee problems,rugby_125,rugby
+182,How long is Andy Farrell expected to be out after his knee operation?,three months,rugby_125,rugby
+183,Who are the Greek sprinters involved in the drugs hearing?,Kostas Kenteris and Katerina Thanou,athletics_023,athletics
+184,What did Kostas Kenteris win at the 2000 Sydney Olympics?,200m gold,athletics_023,athletics
+185,When were Kenteris and Thanou given provisional suspensions by the IAAF?,December,athletics_023,athletics
+186,Which team will Jonny Wilkinson face on Saturday?,Edinburgh,rugby_105,rugby
+187,When did Jonny Wilkinson injure his bicep?,17 October,rugby_105,rugby
+188,Where is the Heineken Cup match taking place?,Murrayfield,rugby_105,rugby
+189,Which team is set to tour Australia?,West Indies,cricket_078,cricket
+190,Who is the sponsor of the West Indies Cricket Board?,Digicel,cricket_078,cricket
+191,When is the West Indies' first warm-up match against Victoria?,5 January,cricket_078,cricket
+192,Who won the Canberra Classic?,Ana Ivanovic,tennis_081,tennis
+193,Who did Ana Ivanovic defeat in the final?,Melinda Czink,tennis_081,tennis
+194,What was the score of the final match?,7-5 6-1,tennis_081,tennis
+195,Who is Julian White expecting a tough match against in the Six Nations opener?,Wales,rugby_030,rugby
+196,Which position does Gethin Jenkins play for Wales?,loose-head,rugby_030,rugby
+197,What was the score when England defeated South Africa at Twickenham?,32-16,rugby_030,rugby
+198,Who was named the new national manager of Scotland?,Walter Smith,football_118,football
+199,What was Scotland's FIFA ranking at the time of the article?,77th,football_118,football
